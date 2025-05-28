@@ -1,6 +1,9 @@
-## Hi there 👋
+## Hi there, it's me Nguyen Quoc Vinh 👋
+
 # 💫 About Me:
-I'm currently studying at University of Science. I'm eager to learn about the computers and currently chasing the career of Backend Developer.
+I'm currently a student at the University of Science with a strong passion for computer systems and backend development. I'm actively pursuing a career as a Backend Developer, with the long-term goal of becoming a Solution Architect.  
+**May be I'm not able to answer every question yet, but I know how to find the answer—and I will.**
+
 
 
 ## 🌐 Socials:
